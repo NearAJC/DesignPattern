@@ -2,395 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="777306fe-0dd9-4b95-ac52-fe3578b0081f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DesignPattern.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/behavioral/chainofresponsibility/Approver.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/behavioral/chainofresponsibility/ArticleApprover.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/behavioral/chainofresponsibility/Course.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/behavioral/chainofresponsibility/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/behavioral/chainofresponsibility/VideoApprover.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/behavioral/command/CloseCourseVideoCommand.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/behavioral/command/Command.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/behavioral/command/CourseVideo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/behavioral/command/OpenCourseVideoCommand.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/behavioral/command/Staff.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/behavioral/command/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/behavioral/interpreter/AddInterpreter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/behavioral/interpreter/Interpreter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/behavioral/interpreter/MultiInterpreter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/behavioral/interpreter/NearExpresionParser.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/behavioral/interpreter/NumberInterpreter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/behavioral/interpreter/OperatorUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/behavioral/interpreter/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/behavioral/iterator/Course.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/behavioral/iterator/CourseAggregate.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/behavioral/iterator/CourseAggregateImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/behavioral/iterator/CourseIterator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/behavioral/iterator/CourseIteratorImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/behavioral/iterator/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/behavioral/madiator/StudyGroup.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/behavioral/madiator/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/behavioral/madiator/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/behavioral/memento/Article.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/behavioral/memento/ArticleMemento.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/behavioral/memento/ArticleMementoManager.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/behavioral/memento/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/behavioral/observer/Course.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/behavioral/observer/Question.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/behavioral/observer/Teacher.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/behavioral/observer/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/behavioral/state/CourseVideoContext.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/behavioral/state/CourseVideoState.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/behavioral/state/PauseState.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/behavioral/state/PlayState.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/behavioral/state/SpeedState.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/behavioral/state/StopState.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/behavioral/state/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/behavioral/strategy/EmptyPromotionStategy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/behavioral/strategy/FanXianPromotionStategy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/behavioral/strategy/LiJianPromotionStategy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/behavioral/strategy/ManJianPromotionStategy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/behavioral/strategy/PromotionActivity.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/behavioral/strategy/PromotionStategy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/behavioral/strategy/PromotionStategyFactory$PromotionKey.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/behavioral/strategy/PromotionStategyFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/behavioral/strategy/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/behavioral/templatemethod/ACourse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/behavioral/templatemethod/DesignPatternCourse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/behavioral/templatemethod/FECourse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/behavioral/templatemethod/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/behavioral/visitor/CodingCourse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/behavioral/visitor/Course.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/behavioral/visitor/FreeCourse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/behavioral/visitor/IVisitor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/behavioral/visitor/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/behavioral/visitor/Visitor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/creational/abstractfactory/Article.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/creational/abstractfactory/CourseFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/creational/abstractfactory/JavaArticle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/creational/abstractfactory/JavaCourseFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/creational/abstractfactory/JavaVideo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/creational/abstractfactory/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/creational/abstractfactory/Video.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/creational/builder/director/Coach.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/creational/builder/director/Course.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/creational/builder/director/CourseActualBuilder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/creational/builder/director/CourseBuilder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/creational/builder/director/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/creational/builder/innerclass/Course$CourseBuilder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/creational/builder/innerclass/Course.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/creational/builder/innerclass/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/creational/factorymethod/JavaVideo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/creational/factorymethod/JavaVideoFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/creational/factorymethod/PythonVideo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/creational/factorymethod/PythonVideoFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/creational/factorymethod/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/creational/factorymethod/Video.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/creational/factorymethod/VideoFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/creational/prototype/deepclone/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/creational/prototype/deepclone/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/creational/prototype/shallowclone/Mail.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/creational/prototype/shallowclone/MailUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/creational/prototype/shallowclone/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/creational/simplefactory/JavaVideo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/creational/simplefactory/PythonVideo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/creational/simplefactory/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/creational/simplefactory/Video.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/creational/simplefactory/VideoFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/creational/singleton/ContainerSingleton.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/creational/singleton/EnumSingleton$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/creational/singleton/EnumSingleton$EnumInstance.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/creational/singleton/EnumSingleton.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/creational/singleton/HungrySingleton.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/creational/singleton/LazyDoubleCheckSingleton.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/creational/singleton/LazySingleton.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/creational/singleton/StaticInnerClassSingleton$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/creational/singleton/StaticInnerClassSingleton$InnerClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/creational/singleton/StaticInnerClassSingleton.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/creational/singleton/T.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/creational/singleton/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/creational/singleton/ThreadLocalInstance$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/creational/singleton/ThreadLocalInstance.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/structural/adapter/classadapter/Adaptee.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/structural/adapter/classadapter/Adapter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/structural/adapter/classadapter/ConcreteTarget.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/structural/adapter/classadapter/Target.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/structural/adapter/classadapter/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/structural/adapter/objectadapter/AC220.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/structural/adapter/objectadapter/DC5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/structural/adapter/objectadapter/PowerAdapter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/structural/adapter/objectadapter/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/structural/bridge/ABCBank.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/structural/bridge/Account.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/structural/bridge/Bank.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/structural/bridge/DepositAccount.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/structural/bridge/ICBCBank.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/structural/bridge/SavingAccount.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/structural/bridge/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/structural/composite/CatalogComponent.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/structural/composite/Course.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/structural/composite/CourseCatalog.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/structural/composite/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/structural/decorator/APancake.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/structural/decorator/AbstractDecrator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/structural/decorator/EggDecorator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/structural/decorator/Pancake.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/structural/decorator/SausageDecorator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/structural/decorator/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/structural/facade/CPU.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/structural/facade/Computer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/structural/facade/Disk.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/structural/facade/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/structural/flyweight/Employee.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/structural/flyweight/EmployeeFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/structural/flyweight/Manager.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/structural/flyweight/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/structural/proxy/IOrderDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/structural/proxy/IOrderService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/structural/proxy/Order.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/structural/proxy/OrderDaoImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/structural/proxy/OrderServiceDynamicProxy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/structural/proxy/OrderServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/structural/proxy/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/structural/proxy/db/DataSourceContextHolder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/structural/proxy/db/DynamicDataSource.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/pattern/structural/proxy/staticproxy/OrderServiceStaticProxy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/principle/compositionaggregation/DBConnection.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/principle/compositionaggregation/MySQLConnection.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/principle/compositionaggregation/PostgreSQLConnection.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/principle/compositionaggregation/ProductDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/principle/compositionaggregation/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/principle/demeter/Boss.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/principle/demeter/Course.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/principle/demeter/TeamLeader.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/principle/demeter/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/principle/dependenceinversion/FECourse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/principle/dependenceinversion/ICourse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/principle/dependenceinversion/JavaCourse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/principle/dependenceinversion/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/principle/dependenceinversion/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/principle/interfacesegregation/Bird.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/principle/interfacesegregation/Dog.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/principle/interfacesegregation/IAnimalAction.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/principle/interfacesegregation/IEatAnimalAction.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/principle/interfacesegregation/IFlyAnimalAction.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/principle/interfacesegregation/ISwimAnimalAction.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/principle/liskovsubstitution/Quadrilateral.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/principle/liskovsubstitution/Rectangle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/principle/liskovsubstitution/Square.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/principle/liskovsubstitution/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/principle/liskovsubstitution/methodinput/Base.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/principle/liskovsubstitution/methodinput/Child.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/principle/liskovsubstitution/methodinput/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/principle/liskovsubstitution/methodoutput/Base.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/principle/liskovsubstitution/methodoutput/Child.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/principle/liskovsubstitution/methodoutput/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/principle/openclose/ICourse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/principle/openclose/JavaCourse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/principle/openclose/JavaDiscountCourse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/principle/openclose/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/principle/singlersponsibility/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/principle/singlersponsibility/clazz/Bird.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/principle/singlersponsibility/clazz/FlyBird.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/principle/singlersponsibility/clazz/WalkBird.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/principle/singlersponsibility/interfaces/ICourse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/principle/singlersponsibility/interfaces/ICourseContent.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/principle/singlersponsibility/interfaces/ICourseManager.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/DesignPattern/com/itnear/principle/singlersponsibility/method/Method.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/singleton_file" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/behavioral/chainofresponsibility/Approver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/behavioral/chainofresponsibility/ArticleApprover.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/behavioral/chainofresponsibility/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/behavioral/chainofresponsibility/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/behavioral/chainofresponsibility/VideoApprover.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/behavioral/command/CloseCourseVideoCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/behavioral/command/Command.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/behavioral/command/CourseVideo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/behavioral/command/OpenCourseVideoCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/behavioral/command/Staff.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/behavioral/command/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/behavioral/interpreter/AddInterpreter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/behavioral/interpreter/Interpreter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/behavioral/interpreter/MultiInterpreter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/behavioral/interpreter/NearExpresionParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/behavioral/interpreter/NumberInterpreter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/behavioral/interpreter/OperatorUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/behavioral/interpreter/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/behavioral/iterator/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/behavioral/iterator/CourseAggregate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/behavioral/iterator/CourseAggregateImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/behavioral/iterator/CourseIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/behavioral/iterator/CourseIteratorImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/behavioral/iterator/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/behavioral/madiator/StudyGroup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/behavioral/madiator/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/behavioral/madiator/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/behavioral/memento/Article.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/behavioral/memento/ArticleMemento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/behavioral/memento/ArticleMementoManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/behavioral/memento/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/behavioral/observer/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/behavioral/observer/Question.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/behavioral/observer/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/behavioral/observer/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/behavioral/state/CourseVideoContext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/behavioral/state/CourseVideoState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/behavioral/state/PauseState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/behavioral/state/PlayState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/behavioral/state/SpeedState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/behavioral/state/StopState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/behavioral/state/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/behavioral/strategy/EmptyPromotionStategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/behavioral/strategy/FanXianPromotionStategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/behavioral/strategy/LiJianPromotionStategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/behavioral/strategy/ManJianPromotionStategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/behavioral/strategy/PromotionActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/behavioral/strategy/PromotionStategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/behavioral/strategy/PromotionStategyFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/behavioral/strategy/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/behavioral/templatemethod/ACourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/behavioral/templatemethod/DesignPatternCourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/behavioral/templatemethod/FECourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/behavioral/templatemethod/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/behavioral/visitor/CodingCourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/behavioral/visitor/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/behavioral/visitor/FreeCourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/behavioral/visitor/IVisitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/behavioral/visitor/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/behavioral/visitor/Visitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/creational/abstractfactory/Article.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/creational/abstractfactory/CourseFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/creational/abstractfactory/JavaArticle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/creational/abstractfactory/JavaCourseFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/creational/abstractfactory/JavaVideo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/creational/abstractfactory/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/creational/abstractfactory/Video.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/creational/builder/director/Coach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/creational/builder/director/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/creational/builder/director/CourseActualBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/creational/builder/director/CourseBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/creational/builder/director/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/creational/builder/innerclass/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/creational/builder/innerclass/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/creational/factorymethod/JavaVideo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/creational/factorymethod/JavaVideoFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/creational/factorymethod/PythonVideo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/creational/factorymethod/PythonVideoFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/creational/factorymethod/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/creational/factorymethod/Video.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/creational/factorymethod/VideoFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/creational/prototype/deepclone/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/creational/prototype/deepclone/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/creational/prototype/shallowclone/Mail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/creational/prototype/shallowclone/MailUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/creational/prototype/shallowclone/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/creational/simplefactory/JavaVideo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/creational/simplefactory/PythonVideo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/creational/simplefactory/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/creational/simplefactory/Video.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/creational/simplefactory/VideoFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/creational/singleton/ContainerSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/creational/singleton/EnumSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/creational/singleton/HungrySingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/creational/singleton/LazyDoubleCheckSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/creational/singleton/LazySingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/creational/singleton/StaticInnerClassSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/creational/singleton/T.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/creational/singleton/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/creational/singleton/ThreadLocalInstance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/structural/adapter/classadapter/Adaptee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/structural/adapter/classadapter/Adapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/structural/adapter/classadapter/ConcreteTarget.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/structural/adapter/classadapter/Target.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/structural/adapter/classadapter/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/structural/adapter/objectadapter/AC220.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/structural/adapter/objectadapter/DC5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/structural/adapter/objectadapter/PowerAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/structural/adapter/objectadapter/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/structural/bridge/ABCBank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/structural/bridge/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/structural/bridge/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/structural/bridge/DepositAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/structural/bridge/ICBCBank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/structural/bridge/SavingAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/structural/bridge/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/structural/composite/CatalogComponent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/structural/composite/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/structural/composite/CourseCatalog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/structural/composite/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/structural/decorator/APancake.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/structural/decorator/AbstractDecrator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/structural/decorator/EggDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/structural/decorator/Pancake.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/structural/decorator/SausageDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/structural/decorator/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/structural/facade/CPU.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/structural/facade/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/structural/facade/Disk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/structural/facade/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/structural/flyweight/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/structural/flyweight/EmployeeFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/structural/flyweight/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/structural/flyweight/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/structural/proxy/IOrderDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/structural/proxy/IOrderService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/structural/proxy/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/structural/proxy/OrderDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/structural/proxy/OrderServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/structural/proxy/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/structural/proxy/dynamicproxy/OrderServiceDynamicProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/pattern/structural/proxy/staticproxy/OrderServiceStaticProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/principle/compositionaggregation/DBConnection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/principle/compositionaggregation/MySQLConnection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/principle/compositionaggregation/PostgreSQLConnection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/principle/compositionaggregation/ProductDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/principle/compositionaggregation/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/principle/demeter/Boss.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/principle/demeter/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/principle/demeter/TeamLeader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/principle/demeter/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/principle/dependenceinversion/FECourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/principle/dependenceinversion/ICourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/principle/dependenceinversion/JavaCourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/principle/dependenceinversion/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/principle/dependenceinversion/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/principle/interfacesegregation/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/principle/interfacesegregation/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/principle/interfacesegregation/IAnimalAction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/principle/interfacesegregation/IEatAnimalAction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/principle/interfacesegregation/IFlyAnimalAction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/principle/interfacesegregation/ISwimAnimalAction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/principle/liskovsubstitution/Quadrilateral.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/principle/liskovsubstitution/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/principle/liskovsubstitution/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/principle/liskovsubstitution/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/principle/liskovsubstitution/methodinput/Base.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/principle/liskovsubstitution/methodinput/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/principle/liskovsubstitution/methodinput/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/principle/liskovsubstitution/methodoutput/Base.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/principle/liskovsubstitution/methodoutput/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/principle/liskovsubstitution/methodoutput/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/principle/openclose/ICourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/principle/openclose/JavaCourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/principle/openclose/JavaDiscountCourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/principle/openclose/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/principle/singlersponsibility/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/principle/singlersponsibility/clazz/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/principle/singlersponsibility/clazz/FlyBird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/principle/singlersponsibility/clazz/WalkBird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/principle/singlersponsibility/interfaces/ICourse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/principle/singlersponsibility/interfaces/ICourseContent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/principle/singlersponsibility/interfaces/ICourseManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/itnear/principle/singlersponsibility/method/Method.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/itnear/pattern/structural/proxy/dynamicproxy/OrderServiceDynamicProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/itnear/pattern/structural/proxy/dynamicproxy/OrderServiceDynamicProxy.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -404,20 +17,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/itnear/pattern/structural/proxy/dynamicproxy/OrderServiceDynamicProxy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="10">
-              <caret line="5" column="32" lean-forward="true" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+            <state relative-caret-position="160">
+              <caret line="28" column="36" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/itnear/pattern/creational/prototype/deepclone/Student.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="71">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="341">
-              <caret line="34" column="9" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+            <state relative-caret-position="250">
+              <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -438,7 +63,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/itnear/pattern/behavioral/madiator/User.java" />
         <option value="$PROJECT_DIR$/src/com/itnear/pattern/behavioral/madiator/Test.java" />
         <option value="$PROJECT_DIR$/src/com/itnear/pattern/behavioral/memento/ArticleMemento.java" />
         <option value="$PROJECT_DIR$/src/com/itnear/pattern/behavioral/memento/ArticleMementoManager.java" />
@@ -489,6 +113,7 @@
         <option value="$PROJECT_DIR$/src/com/itnear/pattern/structural/proxy/OrderServiceStaticProxy.java" />
         <option value="$PROJECT_DIR$/src/com/itnear/pattern/structural/proxy/staticproxy/OrderServiceStaticProxy.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/com/itnear/pattern/structural/proxy/dynamicproxy/OrderServiceDynamicProxy.java" />
       </list>
     </option>
   </component>
@@ -504,9 +129,9 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="779" />
-    <option name="y" value="26" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="589" />
+    <option name="y" value="-23" />
     <option name="width" value="1135" />
     <option name="height" value="579" />
   </component>
@@ -523,51 +148,6 @@
               <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
               <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="itnear" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="itnear" type="462c0819:PsiDirectoryNode" />
-              <item name="pattern" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="itnear" type="462c0819:PsiDirectoryNode" />
-              <item name="pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="creational" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="itnear" type="462c0819:PsiDirectoryNode" />
-              <item name="pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="creational" type="462c0819:PsiDirectoryNode" />
-              <item name="prototype" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesignPattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="itnear" type="462c0819:PsiDirectoryNode" />
-              <item name="pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="creational" type="462c0819:PsiDirectoryNode" />
-              <item name="prototype" type="462c0819:PsiDirectoryNode" />
-              <item name="deepclone" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -579,7 +159,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582213159166" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582213530688" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -712,15 +292,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581775427760</updated>
-      <workItem from="1581775431068" duration="86862000" />
+      <workItem from="1581775431068" duration="87223000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="86862000" />
+    <option name="totallyTimeSpent" value="87223000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="545" y="67" width="1135" height="579" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
@@ -729,11 +309,11 @@
       <window_info id="Favorites" order="3" side_tool="true" weight="0.32981783" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="Designer" order="5" />
-      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.37023255" />
+      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.301059" />
       <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" visible="true" weight="0.06081081" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="0" sideWeight="0.49924356" visible="true" weight="0.33333334" />
       <window_info anchor="bottom" id="CheckStyle" order="1" weight="0.3283582" />
-      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.50075644" side_tool="true" weight="0.33333334" />
       <window_info anchor="bottom" id="Messages" order="3" weight="0.3280899" />
       <window_info anchor="bottom" id="Database Changes" order="4" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="5" show_stripe_button="false" />
@@ -779,21 +359,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/itnear/pattern/behavioral/command/CourseVideo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" selection-start-line="2" selection-end-line="6" selection-end-column="3" />
-          <folding>
-            <element signature="e#186#187#0" expanded="true" />
-            <element signature="e#218#219#0" expanded="true" />
-            <element signature="e#244#245#0" expanded="true" />
-            <element signature="e#296#297#0" expanded="true" />
-            <element signature="e#323#324#0" expanded="true" />
-            <element signature="e#375#376#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/itnear/pattern/behavioral/madiator/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="12">
@@ -1468,17 +1033,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/itnear/pattern/structural/proxy/dynamicproxy/OrderServiceDynamicProxy.java">
+    <entry file="file://$PROJECT_DIR$/src/com/itnear/pattern/creational/prototype/deepclone/Student.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10">
-          <caret line="5" column="32" lean-forward="true" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+        <state relative-caret-position="71">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="34" column="9" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+        <state relative-caret-position="250">
+          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/itnear/pattern/structural/proxy/dynamicproxy/OrderServiceDynamicProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="28" column="36" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
